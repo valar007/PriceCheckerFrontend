@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/..valar007.github.io/PriceCheckerFrontend/static/css/main.ccce78ee.chunk.css",
+    "main.js": "/..valar007.github.io/PriceCheckerFrontend/static/js/main.e33999cc.chunk.js",
+    "main.js.map": "/..valar007.github.io/PriceCheckerFrontend/static/js/main.e33999cc.chunk.js.map",
+    "runtime-main.js": "/..valar007.github.io/PriceCheckerFrontend/static/js/runtime-main.b1c8d1cd.js",
+    "runtime-main.js.map": "/..valar007.github.io/PriceCheckerFrontend/static/js/runtime-main.b1c8d1cd.js.map",
+    "static/js/2.f29d6111.chunk.js": "/..valar007.github.io/PriceCheckerFrontend/static/js/2.f29d6111.chunk.js",
+    "static/js/2.f29d6111.chunk.js.map": "/..valar007.github.io/PriceCheckerFrontend/static/js/2.f29d6111.chunk.js.map",
+    "index.html": "/..valar007.github.io/PriceCheckerFrontend/index.html",
+    "precache-manifest.52ba643258959171cd95f54d21eb54a4.js": "/..valar007.github.io/PriceCheckerFrontend/precache-manifest.52ba643258959171cd95f54d21eb54a4.js",
+    "service-worker.js": "/..valar007.github.io/PriceCheckerFrontend/service-worker.js",
+    "static/css/main.ccce78ee.chunk.css.map": "/..valar007.github.io/PriceCheckerFrontend/static/css/main.ccce78ee.chunk.css.map",
+    "static/js/2.f29d6111.chunk.js.LICENSE.txt": "/..valar007.github.io/PriceCheckerFrontend/static/js/2.f29d6111.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1c8d1cd.js",
+    "static/js/2.f29d6111.chunk.js",
+    "static/css/main.ccce78ee.chunk.css",
+    "static/js/main.e33999cc.chunk.js"
+  ]
+}
