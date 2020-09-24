@@ -1,0 +1,80 @@
+.product-details {
+    border: 1px solid black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 2rem 0 2rem 0;
+}
+.product-details .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+.product-details .features {
+    border-right: 1px solid black;
+    display: inline-block;
+    margin-left: 2rem;
+    width: 30%;
+}
+.product-details .features .feature {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.product-details .features .feature .name {
+    display: inline-block;
+    text-transform: capitalize;
+    text-align: left;
+    width: 40%;
+    word-wrap: break-word;
+}
+.product-details .features .feature .value {
+    display: inline-block;
+    margin-right: 1rem;
+    width: 40%;
+    text-align: left;
+    word-wrap: break-word;
+}
+.product-details .prices {
+    height: auto;
+    margin: auto;
+    width: 50%;
+    display: inline-block;
+}
+.product-details .prices .vendor-price {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.header {
+    font-weight: bold;
+}
+.product-details .prices .vendor-price .price {
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+    word-wrap: break-word;
+}
+.product-details .prices .vendor-price .link-header {
+    display: inline-block;
+    margin-right: 1rem;
+    width: 20%;
+    text-align: center;
+}
+.product-details .prices .vendor-price .link {
+    display: inline-block;
+    margin-right: 1rem;
+    width: 20%;
+    text-align: center;
+    background: none;
+    border: none;
+}
+.product-details .prices .vendor-price .link .text {
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    border-bottom: 2px solid #F19953;
+    width: auto;
+    border-radius: 255px 15px 225px 0/15px 225px 15px 255px;
+}
+.product-details .prices .vendor-price .link .text:hover {
+    border-bottom: 3px solid #F19953;
+    font-weight: bold;
+    cursor: pointer;
+}

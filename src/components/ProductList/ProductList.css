@@ -1,0 +1,41 @@
+.product-container {
+    margin: 2rem auto;
+    width: 80%;
+    border-bottom: 1px solid black;
+    padding-bottom: 2rem;
+}
+.product-container .search-text {
+    font-size: 1rem;
+    font-weight: bold;
+}
+.product-container .loading-spinner {
+    margin: 0 auto;
+}
+.product-container .product-list {
+    margin-top: 1rem;
+}
+.product-container .product-list .product {
+    padding: 1rem;
+    display: inline-block;
+    width: 15rem;
+    border: 1px solid #F19953;
+    border-radius: 5px;
+    margin: 0.5rem;
+    word-wrap: break-word;
+    text-transform: capitalize;
+}
+.product-container .product-list .product button {
+    border: 3px solid #F19953;
+    border-radius: 3px;
+    font-size: 1rem;
+    background-color: #F0F7EE;
+    color: #000000;
+    margin-left: 0.4rem;
+    padding: 0.2rem;
+}
+
+.product-container .product-list .product button:hover {
+    background-color: #F19953;
+    color: #000000;
+    cursor: pointer;
+}

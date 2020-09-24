@@ -1,0 +1,48 @@
+.searchContainer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid black;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.searchContainer label {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+}
+
+.searchContainer input {
+    border: 3px solid #F19953;
+    border-radius: 3px;
+    color: #000000;
+    background-color: #F0F7EE;
+    width: 50%;
+    font-size: 2rem;
+    padding: 0.5rem;
+}
+
+.searchContainer button {
+    border: 3px solid #F19953;
+    border-radius: 3px;
+    font-size: 2rem;
+    background-color: #F0F7EE;
+    color: #000000;
+    margin-left: 1rem;
+    padding: 0.5rem;
+}
+
+.searchContainer button:hover {
+    background-color: #F19953;
+    color: #070707;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    margin-top: 1rem;
+}
+
+.message {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}

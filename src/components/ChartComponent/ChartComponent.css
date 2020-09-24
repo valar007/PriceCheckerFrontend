@@ -1,0 +1,24 @@
+.chart-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 1rem 0 1rem 0;
+}
+.chart-container p {
+    text-transform: capitalize;
+    font-size: 1.6rem;
+}
+
+.history-range-btn {
+    margin-right: 1rem;
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    border-bottom: 2px solid #F19953;
+    width: auto;
+    border-radius: 255px 15px 225px 0/15px 225px 15px 255px;
+}
+.history-range-btn:hover {
+    border-bottom: 3px solid #F19953;
+    cursor: pointer;
+}
